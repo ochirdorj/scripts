@@ -1,0 +1,438 @@
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  9.4M  347M   3% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  9.4M  347M   3% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  9.4M  347M   3% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  9.4M  347M   3% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  5.0M  351M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  6.4M  350M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  6.4M  350M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  6.4M  350M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  6.4M  350M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M     0  4.0M   0% /dev
+tmpfs           889M     0  889M   0% /dev/shm
+tmpfs           356M  6.4M  350M   2% /run
+/dev/vda1        50G  1.8G   49G   4% /
+tmpfs           178M     0  178M   0% /run/user/0

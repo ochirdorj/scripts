@@ -1,0 +1,16 @@
+- Step 1: Create separate repo in Github.
+- Step 2: Put all the code taht you wrote in the following structure
+
+Python repo: 
+|
+|
+|-----> session-1
+            |
+            |---> classtask
+                        | --- session1.py
+            |---> hometask
+                        |
+                        ----task1.py
+                        ----task2.py
+
+- Step 3: Commit and push your code
